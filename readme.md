@@ -1,5 +1,5 @@
 # Docker Net Test
-Example DockerFile and deployment shell script
+Example .NET Core 2.1 WebAPI project deployed using Docker and a deployment shell script
 
 # Build and Deployment
 To build an image called `docker-net-test` and deploy it to a container called `sweet-app` on port `4000`:
